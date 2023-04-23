@@ -3,8 +3,8 @@
 # Make a dir and download the client and server
 mkdir -p unciv-bins
 cd unciv-bins
-wget https://github.com/yairm210/Unciv/releases/download/4.6.0/Unciv-Linux64.zip
-wget https://github.com/yairm210/Unciv/releases/download/4.6.0/UncivServer.jar
+wget https://github.com/yairm210/Unciv/releases/download/4.6.5/Unciv-Linux64.zip
+wget https://github.com/yairm210/Unciv/releases/download/4.6.5/UncivServer.jar
 unzip -d client Unciv-Linux64.zip
 cd ..
 
